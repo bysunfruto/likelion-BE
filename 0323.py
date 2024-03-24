@@ -20,6 +20,6 @@ while True :
         break;
 
 print("-------------------------------")
-print(count, "번 만에 정답을 맞추셨습니다.")
+print(count, "번 만에 정답을 맞추셨습니다!")
 
    
